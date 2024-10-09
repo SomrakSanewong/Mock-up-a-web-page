@@ -1,0 +1,211 @@
+
+        html, body{
+            margin: 0px;
+    }   
+    .navbar{
+        background-color: #FFEFD5;
+        padding: 10px 10px;
+        display: flex;
+        justify-content:space-between;
+        background-color: #FFEFD5;
+        align-items: center;
+    }
+    .navbarr{
+        background-color: #FFEFD5;
+        padding: 20px;
+        display: flex;
+        justify-content: center; 
+        background-color: #FFEFD5;
+        align-items: center; 
+    }
+
+    a{color: black;
+    }
+    .navbar_menu{
+        margin-left: 30px;
+    }
+    .img{
+        width: 30%;
+        height: 200px;
+    }
+    .img1{
+        width: 100%;
+        height: 450px;
+    }
+    
+    table, th, td {
+            padding: 1px;
+            text-align: center;
+            border: 1px solid;
+            border-collapse: collapse;
+        }
+        table {
+            width: 90%;
+            height:100px;
+            background-color: white;
+        }
+    .Logn{
+        background-color: #FFEFD5;
+        text-align: center;
+    }
+    .box{
+        width: 200ex;
+        height: 200ex;
+        border: 1px solid black;
+    }
+    .feed{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 10px;
+        background-color: white;
+    }
+    .feed_container{
+        margin: 4px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .feed_card{
+        width: 400px;
+        height: 200px;
+        border: 1px solid black;
+        background-color: white;
+    }
+    .img2{
+        width: 400px;
+        height: 200px;
+    }
+    .container {
+        position: relative;
+    }
+    .center {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+    }
+    .ad{
+        display: flex;
+        background-color: white;
+    }
+    .b {
+        width: 65%;
+        height:610px;
+        background-color:white;
+        color: black;
+    }
+    .img5{
+        width: 800px;
+        height: 400px;
+        padding-left: 77px;
+    }
+    .btn {
+        background-color:burlywood;
+    }
+    .c {
+        width: 35%;
+        height:610px;
+        background-color: white;
+        color: black;
+    }
+    .img6{
+       border-radius: 50%;
+      }
+    .img7{
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        padding: 5px ;
+    }
+    .ac{
+        display: flex;
+        background-color:white;
+    }
+    .f{
+        width: 65%;
+        height:550px;
+        background-color: white;
+        color: black;
+    }
+    .g{
+        width: 35%;
+        height:550px;
+        background-color:white;
+        color: black;
+    }
+    .feed_1{
+        width: 300px;
+        height: 280px;
+        border: 1px solid black;
+        background-color: #FFF8DC;
+    }
+    .feed_2{
+        padding: 20px;
+        width:  180px;
+        height: 3px;
+        text-align: center;
+        border-collapse: collapse;
+    }
+    .feed_3{
+        padding: 20px;
+        width:  225px;
+        height: 3px;
+        text-align: center;
+        border-collapse: collapse;
+        background-color:burlywood;
+    }
+    .Logn1{
+        background-color:#FAFAD2;
+        width: 100%;
+        height: 200px;
+    }
+    .Logn2{
+        display: flex;
+        justify-content:space-around;
+        align-items:center;
+        width: 100%;
+    }
+    .Logn3{
+        
+        height: 300px;
+    }
+    a{
+        text-decoration: none;
+    }
+    .kq{
+        width: 100px;
+        height: 100px;
+    }
+    .feed_4{
+        height: 220px;
+        width:  220px;
+    }
+    .feed_5{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        background-color: white;
+    }
+    .feed_6{
+        position: absolute;
+        width: 180px;
+        height: 60px;
+        left: 28%;
+        top: 30%;
+        text-align: center;
+        background-color: white;
+        opacity: 0.8;
+    }
+    .feed_7{
+        position: absolute;
+        width: 50%;
+        height: 40%;
+        left: 25%;
+        top: 90%;
+        text-align: center;
+        background-color: white;
+        opacity: 0.8;
+    }
+   
